@@ -17,8 +17,8 @@ public class TextBoxPage {
     //Check Result
             checkName = $("#name"),
             checkEmail = $("#email"),
-            checkCurrentAddress = $("#currentAddress"),
-            checkPermanentAddress = $("#permanentAddress");
+            checkCurrentAddress = $("#output #currentAddress"),
+            checkPermanentAddress = $("#output #permanentAddress");
 
 
     //Test case
